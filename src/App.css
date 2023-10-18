@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+h1{
+  font-size: 90px;
+  margin-top: 20px;
+}
+button{
+  padding: 15px;
+  font-size:30px;
+  border-radius: 5px;
+  margin: 20px;
+  border: 0;
+}
+a{
+  color:aliceblue;
+  font-size: 30px;
+}
+/* used by default with Navlink*/
+/*.active{
+  color:lightblue;
+  text-decoration: none;
+}*/
+
+.activeLink{
+  color:lightblue;
+  text-decoration: none;
+}
+.home{
+  background-color: green;
+}
+.contact{
+  background-color: blue;
+}
+.about{
+  background-color: blueviolet;
+}
